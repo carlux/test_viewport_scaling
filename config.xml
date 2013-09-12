@@ -3,16 +3,16 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.iveco-manual.daily-electric"
-        version   = "0.3.5">
+        id        = "com.carlux.scaling"
+        version   = "0.1.0">
 
-    <name>Use and Maintenance</name>
+    <name>Scaling</name>
 
     <description>
-        IVECO Daily Electric Use and Maintenance manual.
+        Just a test
     </description>
 
-    <author href="http://www.otto.to.it" email="mail@otto.to.it">
+    <author href="http://www.otto.to.it" email="carlo.ricchiardi@otto.to.it">
         Otto, Torino
     </author>
 
